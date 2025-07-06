@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Touseef Ahmed
 - 👀 I’m interested in Software and the new Era of technology like AI 
-- 🌱 I’m currently learning AI and Data Science.
+- 🌱 I'm  proficient in AI and data science.
 - 💞️ I’m looking to collaborate on project-related application development.
 - 📫 You can reach me through my email address Touseefahmed00710@gmail.com
 
